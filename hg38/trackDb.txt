@@ -1,0 +1,8 @@
+track HK1280_ratio
+bigDataUrl HK1280.ratio.bed.bw
+shortLabel HK1280_16/0(age 74)
+longLabel HK1280_16/0 with 494 probes
+type bigWig
+visibility full
+autoScale on
+color 117,107,177
