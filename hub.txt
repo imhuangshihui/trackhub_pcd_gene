@@ -1,0 +1,5 @@
+hub PCDHubSignificantGene
+shortLabel PCD Hub Significant Gene
+longLabel The hub of genes with significant P-value which less than 0.0001(0.05/494)
+genomesFile genomes.txt
+email junehuang@link.cuhk.edu.hk
