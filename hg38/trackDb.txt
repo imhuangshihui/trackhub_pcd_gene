@@ -1,134 +1,120 @@
 track CCDC40
 bigDataUrl CCDC40.ratioFC.sorted.bed.bw 
-shortLabel CCDC40 16/0 log2FC
+shortLabel CCDC40
 longLabel CCDC40 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track DNAAF1
 bigDataUrl DNAAF1.ratioFC.sorted.bed.bw 
-shortLabel DNAAF1 16/0 log2FC
+shortLabel DNAAF1
 longLabel DNAAF1 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track DNAH1
 bigDataUrl DNAH1.ratioFC.sorted.bed.bw 
-shortLabel DNAH1 16/0 log2FC
+shortLabel DNAH1
 longLabel DNAH1 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track DNAH11
 bigDataUrl DNAH11.ratioFC.sorted.bed.bw 
-shortLabel DNAH11 16/0 log2FC
+shortLabel DNAH11
 longLabel DNAH11 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track DNAH8
 bigDataUrl DNAH8.ratioFC.sorted.bed.bw 
-shortLabel DNAH8 16/0 log2FC
+shortLabel DNAH8
 longLabel DNAH8 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track DNAI1
 bigDataUrl DNAI1.ratioFC.sorted.bed.bw 
-shortLabel DNAI1 16/0 log2FC
+shortLabel DNAI1
 longLabel DNAI1 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track DNAI2
 bigDataUrl DNAI2.ratioFC.sorted.bed.bw 
-shortLabel DNAI2 16/0 log2FC
+shortLabel DNAI2
 longLabel DNAI2 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track FOXJ1
 bigDataUrl FOXJ1.ratioFC.sorted.bed.bw 
-shortLabel FOXJ1 16/0 log2FC
+shortLabel FOXJ1
 longLabel FOXJ1 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track GAS2L2
 bigDataUrl GAS2L2.ratioFC.sorted.bed.bw 
-shortLabel GAS2L2 16/0 log2FC
+shortLabel GAS2L2
 longLabel GAS2L2 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track MCIDAS
 bigDataUrl MCIDAS.ratioFC.sorted.bed.bw 
-shortLabel MCIDAS 16/0 log2FC
+shortLabel MCIDAS
 longLabel MCIDAS 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track NME8
 bigDataUrl NME8.ratioFC.sorted.bed.bw 
-shortLabel NME8 16/0 log2FC
+shortLabel NME8
 longLabel NME8 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track RSPH1
 bigDataUrl RSPH1.ratioFC.sorted.bed.bw 
-shortLabel RSPH1 16/0 log2FC
+shortLabel RSPH1
 longLabel RSPH1 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track RSPH3
 bigDataUrl RSPH3.ratioFC.sorted.bed.bw 
-shortLabel RSPH3 16/0 log2FC
+shortLabel RSPH3
 longLabel RSPH3 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track RSPH9
 bigDataUrl RSPH9.ratioFC.sorted.bed.bw 
-shortLabel RSPH9 16/0 log2FC
+shortLabel RSPH9
 longLabel RSPH9 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
 
 track SPEF2
 bigDataUrl SPEF2.ratioFC.sorted.bed.bw 
-shortLabel SPEF2 16/0 log2FC
+shortLabel SPEF2
 longLabel SPEF2 16/0 log2FC
 type bigWig
 visibility full
 autoScale on
-color 117,107,177
+
