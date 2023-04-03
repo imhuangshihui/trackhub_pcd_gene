@@ -118,3 +118,11 @@ type bigWig
 visibility full
 autoScale on
 
+track CFTR
+bigDataUrl cftr.sorted.bed.bw
+shortLabel CFTR
+longLabel CFTR 16/0 log2FC
+type bigWig
+visibility full
+autoScale on
+
