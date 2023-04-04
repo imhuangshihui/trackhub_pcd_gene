@@ -126,3 +126,11 @@ type bigWig
 visibility full
 autoScale on
 
+
+track SLC25A2
+bigDataUrl slc25a2.sorted.bed.bw
+shortLabel SLC25A2
+longLabel SLC25A2 16/0 log2FC
+type bigWig
+visibility full
+autoScale on
